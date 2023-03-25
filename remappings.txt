@@ -1,0 +1,4 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+ozc/=lib/openzeppelin-contracts/
+erc721/=lib/openzeppelin-contracts/contracts/token/ERC721/
